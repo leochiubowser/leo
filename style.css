@@ -1,0 +1,11 @@
+.button{
+    background-color: yellow;
+    height: 50%;
+    width: 20%;
+}
+.button:hover{
+    background-color: yellowgreen;
+}
+body{
+    text-align: center;
+}
